@@ -1,0 +1,112 @@
+#ID     h  m   s       d  m   s     epoch   mag  Size     Con  Type  NGC/IC#   Comment
+#---   -- -- ------   -- -- ------  -----   ---  ----     ---  ----  --------  ----------------
+M1     5h34m31.971s  22d00m52.056s  J2000   8.4  6x4      Tau  SNR   NGC 1952  Crab Nebula
+M2    21h33m27.012s   0d49m23.944s  J2000   6.5  12.9     Aqr  GlCl  NGC 7089  
+M3    13h42m11.226s  28d22m31.635s  J2000   6.2  16.2     CVn  GlCl  NGC 5272  
+M4    16h23m35.403s -26d31m31.878s  J2000   5.6  26.3     Sco  GlCl  NGC 6121  
+M5    15h18m33.752s   2d04m57.659s  J2000   5.6  17.4     Ser  GlCl  NGC 5904  
+M6    17h40m20.748s -32d15m14.959s  J2000   4.2  25       Sco  OpCl  NGC 6405  Butterfly Cluster
+M7    17h53m51.180s -34d47m34.179s  J2000   4.1  80       Sco  OpCl  NGC 6475  The Scorpion's Tail, Ptolemy's Cluster
+M8    18h03m41.265s -24d22m48.600s  J2000   6.0  90x40    Sgr  DifN  NGC 6523  Lagoon Nebula
+M9    17h19m11.781s -18d30m58.526s  J2000   7.7  9.3      Oph  GlCl  NGC 6333  
+M10   16h57m08.991s  -4d05m57.575s  J2000   6.6  15.1     Oph  GlCl  NGC 6254  
+M11   18h51m05.989s  -6d16m12.087s  J2000   6.3  14       Sct  OpCl  NGC 6705  Wild Duck Cluster
+M12   16h47m14.516s  -1d56m52.156s  J2000   6.7  14.5     Oph  GlCl  NGC 6218  
+M13   16h41m41.630s  36d27m40.700s  J2000   5.8  16.6     Her  GlCl  NGC 6205  Hercules Globular Cluster
+M14   17h37m36.156s  -3d14m45.300s  J2000   7.6  11.7     Oph  GlCl  NGC 6402  
+M15   21h29m58.377s  12d10m00.594s  J2000   6.2  12.3     Peg  GlCl  NGC 7078  
+M16   18h18m48.175s -13d48m26.022s  J2000   6.4  7        Ser  OpCl  NGC 6611  Eagle Nebula & Cluster
+M17   18h20m47.110s -16d10m17.492s  J2000   7.0  11       Sgr  DifN  NGC 6618  Omega, Swan, Horseshoe, or Lobster
+M18   18h19m58.493s -17d06m07.077s  J2000   7.5  9        Sgr  OpCl  NGC 6613  
+M19   17h02m37.683s -26d16m04.584s  J2000   6.8  13.5     Oph  GlCl  NGC 6273  
+M20   18h02m42.108s -22d58m18.849s  J2000   9.0  28       Sgr  DifN  NGC 6514  Trifid Nebula
+M21   18h04m13.447s -22d29m24.166s  J2000   6.5  13       Sgr  OpCl  NGC 6531  
+M22   18h36m24.205s -23d54m12.260s  J2000   5.1  24       Sgr  GlCl  NGC 6656  
+M23   17h57m04.766s -18d59m07.227s  J2000   6.9  27       Sgr  OpCl  NGC 6494  
+M24   18h16m56.123s -18d30m52.408s  J2000   4.6  90       Sgr  MWP    IC 4715  Sagittarius Star Cloud, Delle Caus
+M25   18h31m46.765s -19d06m53.848s  J2000   6.5  40       Sgr  OpCl   IC 4725   
+M26   18h45m18.658s  -9d23m00.989s  J2000   8.0  15       Sct  OpCl  NGC 6694  
+M27   19h59m36.380s  22d43m15.700s  J2000   7.4  8.0x5.7  Vul  PlN   NGC 6853  Dumbbell Nebula
+M28   18h24m32.889s -24d52m11.450s  J2000   6.8  11.2     Sgr  GlCl  NGC 6626  
+M29   20h23m57.773s  38d30m27.637s  J2000   7.1  7        Cyg  OpCl  NGC 6913  
+M30   21h40m22.024s -23d10m44.659s  J2000   7.2  11       Cap  GlCl  NGC 7099  
+M31    0h42m44.350s  41d16m08.634s  J2000   3.4  178x63   And  SpG   NGC 224   Andromeda Galaxy
+M32    0h42m41.832s  40d51m55.033s  J2000   8.1  8x6      And  ElG   NGC 221   Satellite of the Andromeda Galaxy
+M33    1h33m50.890s  30d39m36.800s  J2000   5.7  73x45    Tri  SpG   NGC 598   Triangulum Galaxy
+M34    2h42m07.398s  42d44m46.143s  J2000   5.5  35       Per  OpCl  NGC 1039  
+M35    6h09m05.060s  24d20m19.100s  J2000   5.3  28       Gem  OpCl  NGC 2168  
+M36    5h36m17.741s  34d08m26.651s  J2000   6.3  12       Aur  OpCl  NGC 1960  
+M37    5h52m18.345s  32d33m10.781s  J2000   6.2  24       Aur  OpCl  NGC 2099  
+M38    5h28m42.490s  35d51m17.652s  J2000   7.4  21       Aur  OpCl  NGC 1912  
+M39   21h31m48.321s  48d26m17.368s  J2000   4.6  32       Cyg  OpCl  NGC 7092  
+M40   12h22m16.152s  58d05m04.285s  J2000   8.4  0.8      UMa  2St   WNC 4     Winnecke 4
+M41    6h45m59.937s -20d45m15.163s  J2000   4.6  38       CMa  OpCl  NGC 2287  
+M42    5h35m16.479s  -5d23m22.844s  J2000   4.0  85x60    Ori  DifN  NGC 1976  Orion Nebula
+M43    5h35m31.375s  -5d16m02.935s  J2000   9.0  20x15    Ori  DifN  NGC 1982  De Mairan's Nebula, part of Orion 
+M44    8h40m22.198s  19d40m19.435s  J2000   3.7  95       Cnc  OpCl  NGC 2632  Beehive Cluster, Praesepe
+M45    3h47m28.581s  24d06m19.125s  J2000   1.6  110      Tau  OpCl            Pleiades
+M46    7h41m46.819s -14d48m36.038s  J2000   6.0  27       Pup  OpCl  NGC 2437  
+M47    7h36m35.023s -14d28m57.351s  J2000   5.2  30       Pup  OpCl  NGC 2422  
+M48    8h13m43.182s  -5d45m01.622s  J2000   5.5  54       Hya  OpCl  NGC 2548  
+M49   12h29m46.762s   8d00m01.713s  J2000   8.4  9x7.5    Vir  ElG   NGC 4472  
+M50    7h02m40.470s  -8d21m50.500s  J2000   6.3  16       Mon  OpCl  NGC 2323  
+M51   13h29m56.200s  47d13m50.000s  J2000   8.4  11x7     CVn  SpG   NGC 5194  Whirlpool Galaxy
+M52   23h24m48.398s  61d35m35.396s  J2000   7.3  13       Cas  OpCl  NGC 7654
+M53   13h12m55.232s  18d10m08.833s  J2000   7.6  12.6     Com  GlCl  NGC 5024  
+M54   18h55m03.274s -30d28m42.602s  J2000   7.6  9.1      Sgr  GlCl  NGC 6715  
+M55   19h39m59.397s -30d57m43.475s  J2000   6.3  19       Sgr  GlCl  NGC 6809  Summer Rose 
+M56   19h16m35.506s  30d11m04.202s  J2000   8.3  7.1      Lyr  GlCl  NGC 6779  
+M57   18h53m35.013s  33d01m42.858s  J2000   8.8  1.4x1.0  Lyr  PlN   NGC 6720  Ring Nebula                        
+M58   12h37m43.522s  11d49m05.498s  J2000   9.7  5.5x4.5  Vir  SpG   NGC 4579  
+M59   12h42m02.243s  11d38m49.297s  J2000   9.6  5x3.5    Vir  ElG   NGC 4621  
+M60   12h43m39.975s  11d33m09.742s  J2000   8.8  7x6      Vir  ElG   NGC 4649  
+M61   12h21m54.896s   4d28m25.125s  J2000   9.7  6x5.5    Vir  SpG   NGC 4303  
+M62   17h01m12.601s -30d06m44.461s  J2000   6.5  14.1     Oph  GlCl  NGC 6266  
+M63   13h15m49.330s  42d01m45.400s  J2000   8.6  10x6     CVn  SpG   NGC 5055  Sunflower Galaxy
+M64   12h56m43.641s  21d40m58.692s  J2000   8.5  9.3x5.4  Com  SpG   NGC 4826  Blackeye Galaxy
+M65   11h18m55.916s  13d05m32.514s  J2000   9.3  8x1.5    Leo  SpG   NGC 3623  in the Leo Triplett
+M66   11h20m14.964s  12d59m29.536s  J2000   8.9  8x2.5    Leo  SpG   NGC 3627  in the Leo Triplett
+M67    8h51m20.128s  11d48m43.044s  J2000   6.1  30       Cnc  OpCl  NGC 2682  
+M68   12h39m28.010s -26d44m34.941s  J2000   7.8  12       Hya  GlCl  NGC 4590  
+M69   18h31m23.228s -32d20m52.705s  J2000   7.6  7.1      Sgr  GlCl  NGC 6637  
+M70   18h43m12.641s -32d17m30.804s  J2000   7.9  7.8      Sgr  GlCl  NGC 6681  
+M71   19h53m46.109s  18d46m42.246s  J2000   8.2  7.2      Sge  GlCl  NGC 6838  
+M72   20h53m27.911s -12d32m13.403s  J2000   9.3  5.9      Aqr  GlCl  NGC 6981  
+M73   20h58m55.972s -12d38m07.813s  J2000   9.0  2.8      Aqr  4St   NGC 6994  
+M74    1h36m41.747s  15d47m01.183s  J2000   9.4  10.2x9.5 Psc  SpG   NGC 628   
+M75   20h06m04.840s -21d55m20.000s  J2000   8.5  6        Sgr  GlCl  NGC 6864  
+M76    1h42m19.690s  51d34m31.700s  J2000  10.1  2.7x1.8  Per  PlN   NGC 650   Little Dumbbell Nebula
+M77    2h42m40.711s   0d00m47.810s  J2000   8.9  7x6      Cet  SpG   NGC 1068  Cetus A
+M78    5h46m45.824s   0d04m45.457s  J2000   8.3  8x6      Ori  DifN  NGC 2068  
+M79    5h24m10.593s -24d31m27.237s  J2000   7.7  8.7      Lep  GlCl  NGC 1904  
+M80   16h17m02.509s -22d58m30.413s  J2000   7.3  8.9      Sco  GlCl  NGC 6093  
+M81    9h55m33.173s  69d03m55.061s  J2000   6.9  21x10    UMa  SpG   NGC 3031  Bode's Galaxy
+M82    9h55m52.725s  69d40m45.780s  J2000   8.4  9x4      UMa  IrrG  NGC 3034  Cigar Galaxy
+M83   13h37m00.950s -29d51m55.500s  J2000   7.6  11x10    Hya  SpG   NGC 5236  Southern Pinwheel
+M84   12h25m03.743s  12d53m13.139s  J2000   9.1  5        Vir  S0G   NGC 4374  
+M85   12h25m24.108s  18d11m29.353s  J2000   9.1  7.1x5.2  Com  S0G   NGC 4382  
+M86   12h26m11.743s  12d56m46.398s  J2000   8.9  7.5x5.5  Vir  S0G   NGC 4406  
+M87   12h30m49.423s  12d23m28.043s  J2000   8.6  7        Vir  ElG   NGC 4486  Virgo A
+M88   12h31m59.161s  14d25m13.393s  J2000   9.6  7x4      Com  SpG   NGC 4501  
+M89   12h35m39.807s  12d33m22.829s  J2000   9.8  4        Vir  ElG   NGC 4552  
+M90   12h36m49.793s  13d09m46.584s  J2000   9.5  9.5x4.5  Vir  SpG   NGC 4569  
+M91   12h35m26.453s  14d29m46.824s  J2000  10.2  5.4x4.4  Com  SpG   NGC 4548  
+M92   17h17m07.271s  43d08m11.483s  J2000   6.4  11.2     Her  GlCl  NGC 6341  
+M93    7h44m29.226s -23d51m11.106s  J2000   6.0  22       Pup  OpCl  NGC 2447  
+M94   12h50m53.061s  41d07m13.650s  J2000   8.2  7x3      CVn  SpG   NGC 4736  
+M95   10h43m57.700s  11d42m13.700s  J2000   9.7  4.4x3.3  Leo  SpG   NGC 3351  
+M96   10h46m45.740s  11d49m11.800s  J2000   9.2  6x4      Leo  SpG   NGC 3368  
+M97   11h14m47.710s  55d01m08.525s  J2000   9.9  3.4x3.3  UMa  PlN   NGC 3587  Owl Nebula
+M98   12h13m48.285s  14d54m01.203s  J2000  10.1  9.5x3.2  Com  SpG   NGC 4192  
+M99   12h18m49.604s  14d24m59.431s  J2000   9.9  5.4x4.8  Com  SpG   NGC 4254   
+M100  12h22m54.831s  15d49m18.544s  J2000   9.3  7x6      Com  SpG   NGC 4321  
+M101  14h03m12.544s  54d20m56.220s  J2000   7.9  22       UMa  SpG   NGC 5457  Pinwheel Galaxy
+M102  14h03m12.544s  54d20m56.220s  J2000   9.9  5.2x2.3  Dra  S0G   NGC 5866  Spindle Galaxy
+M103   1h33m21.807s  60d39m28.791s  J2000   7.4  6        Cas  OpCl  NGC 581   
+M104  12h39m59.432s -11d37m22.996s  J2000   8.0  9x4      Vir  SpG   NGC 4594  Sombrero Galaxy
+M105  10h47m49.588s  12d34m53.846s  J2000   9.3  2        Leo  ElG   NGC 3379  
+M106  12h18m57.505s  47d18m14.303s  J2000   8.4  19x8     CVn  SpG   NGC 4258  
+M107  16h32m31.915s -13d03m13.078s  J2000   7.9  10       Oph  GlCl  NGC 6171  
+M108  11h11m30.970s  55d40m26.800s  J2000  10.0  8x1      UMa  SpG   NGC 3556  
+M109  11h57m35.980s  53d22m28.300s  J2000   9.8  7x4      UMa  SpG   NGC 3992  
+M110   0h40m22.080s  41d41m07.100s  J2000   8.5  17x10    And  ElG   NGC 205   Satellite of the Andromeda Galaxy
